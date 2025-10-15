@@ -1,7 +1,5 @@
 # json-parser
 
-A json parser, implemented in rust.
-
 Test cases are from [coding challenges](https://codingchallenges.fyi/challenges/challenge-json-parser).
 
 The largest JSON file that I could find is from [here](https://www.kaggle.com/datasets/iyadelwy/the-500mb-tv-show-dataset).
